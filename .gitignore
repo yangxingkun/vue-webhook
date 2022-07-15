@@ -1,0 +1,11 @@
+lib
+node_modules
+Dockerfile
+
+# local env files
+.dockerignore
+.idea
+
+
+yarn.lock
+
